@@ -12,7 +12,9 @@
 
 
 ### FFT_based_file_compression을 진행하고, 다시 복원한 사진
-![reconstructed_image](https://github.com/user-attachments/assets/b6575e5d-96e7-46e6-b4d4-2f9202f1cd51) 고양이의 이미지적인 특징은 살렸다고 볼 수 있음.
+![reconstructed_image](https://github.com/user-attachments/assets/b6575e5d-96e7-46e6-b4d4-2f9202f1cd51) 
+
+고양이의 이미지적인 특징은 살렸다고 볼 수 있음.
 
 
 ### 데이터 압축정보
