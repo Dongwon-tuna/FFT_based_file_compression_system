@@ -4,7 +4,7 @@
 
 ## 개요
 
-**FFT_based_file_compression_system**은 FFT 알고리즘을 활용하여 데이터의 유의미한 부분을 살리며 파일 크기를 최적화하는 것을 목표로 했음.
+**FFT_based_file_compression_system**은 FFT 알고리즘을 활용하여 데이터의 유의미한 부분을 살리며 파일을 압축하고, 해제하여 원본 이미지의 특성이 보이게 복원하는 것을 목표로 했음.
 
 
 ### 원본 Grayscale  이미지
