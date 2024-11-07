@@ -7,14 +7,14 @@
 **FFT_based_file_compression_system**은 FFT 알고리즘을 활용하여 데이터의 유의미한 부분을 살리며 파일 크기를 최적화하는 것을 목표로 했음.
 
 
-원본 Grayscale  이미지
+### 원본 Grayscale  이미지
 ![grayimage](https://github.com/user-attachments/assets/9fa1e868-2c5d-497b-8188-3d4ed834262b)
 
 
-FFT_based_file_compression을 진행하고, 다시 복원한 사진
+### FFT_based_file_compression을 진행하고, 다시 복원한 사진
 ![reconstructed_image](https://github.com/user-attachments/assets/bcb0b8f2-11fe-4c9d-b70e-081f76ed4979)
 
-데이터 압축정보
+### 데이터 압축정보
 
 ```plaintext
 Image Resolution: 383 x 345 pixels
@@ -26,5 +26,5 @@ Size of Compressed txt file: 118.899 KB
 Compression Ratio: 74.52%
 ```
 
-### 고찰
+## 고찰
 이번엔 각 픽셀의 정보를 1행의 데이터로 분석하였음. 하지만 Height와 Width의 행과 열에 대하여 각각 FFT를 적용하여 압축한다면 같은 압축비율에 더 선명한 이미지로 복원이 가능할 것으로 판단됨.(더이상 하기는 귀찮아서 여기까지만)
