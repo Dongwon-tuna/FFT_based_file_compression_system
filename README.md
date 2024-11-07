@@ -12,7 +12,8 @@
 
 
 ### FFT_based_file_compression을 진행하고, 다시 복원한 사진
-![reconstructed_image](https://github.com/user-attachments/assets/bcb0b8f2-11fe-4c9d-b70e-081f76ed4979)
+![reconstructed_image](https://github.com/user-attachments/assets/b6575e5d-96e7-46e6-b4d4-2f9202f1cd51) 고양이의 이미지적인 특징은 살렸다고 볼 수 있음.
+
 
 ### 데이터 압축정보
 
@@ -21,9 +22,9 @@ Image Resolution: 383 x 345 pixels
 Total pixels: 132135 pixels
 Image Mode: L
 Converted text file to ./Data/reconstructed_image.jpg
-Size of Original txt file: 466.66 KB
-Size of Compressed txt file: 118.899 KB
-Compression Ratio: 74.52%
+Size of Original txt file size: 466.66 KB
+Size of Compressed txt file size: 43.331 KB
+Compression Ratio: 90.71%
 ```
 
 ## 고찰
